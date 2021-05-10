@@ -1,5 +1,5 @@
 import React from 'react';
-import Card from './components/containers/CakeContainer';
+import Card from './components/CakeContainer';
 function App() {
   return (
     <div>
