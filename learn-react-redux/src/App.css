@@ -1,0 +1,7 @@
+.app{
+  /* display: flex; */
+  align-items: center;
+  text-align: center;
+  margin: 2rem;
+  padding: 2rem;
+}
